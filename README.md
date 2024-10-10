@@ -12,3 +12,5 @@ The code is separated in two different branch.
    And then npm run dev to start the server.
 
 The data is stored on MongoDB atlas.
+username: rupesh
+password: 123
